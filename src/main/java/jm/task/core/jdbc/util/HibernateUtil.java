@@ -1,5 +1,5 @@
 package jm.task.core.jdbc.util;
 
-public class Util {
+public class HibernateUtil {
     // реализуйте настройку соеденения с БД
 }
